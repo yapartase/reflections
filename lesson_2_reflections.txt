@@ -6,4 +6,9 @@ a .git folder is created which will include my future commits.
 repository? What value do you think it offers?
 
 The working area is where your files would come from which you want to commit.
-You place them in the staging area to later commit them. 
+You place them in the staging area to later commit them.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+not so sure yet.

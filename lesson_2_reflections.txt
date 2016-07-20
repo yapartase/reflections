@@ -23,7 +23,14 @@ merge at a later point.
 it in the diagram the way we do?
 
 If you merge two branches the files in those branches will firstly be compared
-with eachother. Lines which were present in the initial file but are no longer present in one of the later files
-will not be present in the final file. Lines which were not present in the initial file but were added later will be added
-in the final file. Lines which where present in the initial file and are also present in later files will be added
+with eachother. Lines which were present in the initial file but are no longer
+present in one of the later files will not be present in the final file. Lines
+which were not present in the initial file but were added later will be added
+in the final file. Lines which where present in the initial file and are also
+present in later files will be added
 in the final file.
+
+>>What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Automatic merging saves time. Conflicts are pointed out.

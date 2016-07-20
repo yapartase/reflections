@@ -18,3 +18,12 @@ history organized? How would branches help?
 
 when you want to test some ideas without affecting the main branch. You can
 merge at a later point.
+
+>>What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+
+If you merge two branches the files in those branches will firstly be compared
+with eachother. Lines which were present in the initial file but are no longer present in one of the later files
+will not be present in the final file. Lines which were not present in the initial file but were added later will be added
+in the final file. Lines which where present in the initial file and are also present in later files will be added
+in the final file.

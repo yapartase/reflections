@@ -26,5 +26,8 @@ and what would be harder?
 Probably save all the files on the server and access it via ftp or something like dreamweaver.
 It would be hard to work simultaenously on different things.
 
+>>When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
 
-
+Whenever you wanted to explore an idea without wanting it to interfere with the main line.
+It is probably easier to just maintain the master branch on follow a straight line.

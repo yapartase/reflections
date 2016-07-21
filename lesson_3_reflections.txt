@@ -14,3 +14,10 @@ use one instead of another?
 Forking is the github term for cloning. Forks exist online in the github world
 whereas cloning occurs locally. Branches refer to a offspring of one of the
 former nodes. They do not affect the old path unless they are merged.
+
+>>What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You can compare with your own current branch and check for changes etc.
+
+

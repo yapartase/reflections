@@ -7,3 +7,10 @@ when working with other people on the same repo.
 automatically stay up-to-date with your remote repository?
 
 You might not want to share all changes yet with the community.
+
+>>Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+Forking is the github term for cloning. Forks exist online in the github world
+whereas cloning occurs locally. Branches refer to a offspring of one of the
+former nodes. They do not affect the old path unless they are merged.
